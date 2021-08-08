@@ -2,7 +2,7 @@ export const faq = {
   heading: 'Frequently asked questions',
   questions: [
     {
-      question: 'What is a distributed organiztion?',
+      question: 'What is a distributed organization?',
       answer:
         'A distributed organization (DO), or distributed autonomous ' +
         'organization (DAO) is an online community with tools for capital management and governance.',
@@ -32,7 +32,7 @@ export const hero = {
   heading: 'Share Land',
   tagline: 'A farmland commons',
   description:
-    "Share Land is an idea for a distributed organiztion on the Ethereum blockchain whose mission is to own farmland and promote sustainable farming practices for the land in it's possession.",
+    "Share Land is an idea for a distributed organization on the Ethereum blockchain whose mission is to own farmland and promote sustainable farming practices for the land in it's possession.",
 };
 
 export const joinUs = {
