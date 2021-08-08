@@ -50,22 +50,22 @@ export const researchPhase = {
   researchAreas: [
     {
       title: 'DAO platforms',
-      emphasis: 'Which DAO platform,',
+      emphasis: 'Which DAO platform, ',
       rest: 'such as Aragon, DAOStack, and Colony, has a feature set best suited for our mission?',
     },
     {
       title: 'Legal Consultations',
-      emphasis: 'What off-chain entities',
+      emphasis: 'What off-chain entities ',
       rest: 'are required for a farmland commons?',
     },
     {
       title: 'Partnerships',
-      emphasis: 'Which existing institutions',
+      emphasis: 'Which existing institutions ',
       rest: 'can help Share Land accomplish its mission?',
     },
     {
       title: 'Community',
-      emphasis: 'How can Share Land integrate',
+      emphasis: 'How can Share Land integrate ',
       rest: 'with communities at a local level?',
     },
   ],
