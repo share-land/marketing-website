@@ -5,7 +5,7 @@ import {App} from './App';
 import './index.css';
 
 ReactDOM.hydrate(
-// ReactDOM.render(
+  // ReactDOM.render(
   <BrowserRouter>
     <App />
   </BrowserRouter>,

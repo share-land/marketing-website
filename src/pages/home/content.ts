@@ -32,7 +32,7 @@ export const hero = {
   heading: 'Share Land',
   tagline: 'A farmland commons',
   description:
-    "Share Land is an idea for a digital cooperative whose mission is to tokenize farmland, promote sustainable farming practices, and reduce the risk involved for new farmers.",
+    'Share Land is an idea for a digital cooperative whose mission is to tokenize farmland, promote sustainable farming practices, and reduce the risk involved for new farmers.',
 };
 
 export const joinUs = {
@@ -83,7 +83,7 @@ export const whyWhatHow = {
           text: 'If you give a hungry man food, he will eat it.  If you give him land, he will grow his own food.',
           author: 'Fannie Lou Hamer',
           cite: 'https://www.inspiringquotes.us/author/3391-fannie-lou-hamer',
-        }
+        },
       ],
     },
     {
