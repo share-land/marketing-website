@@ -2,10 +2,10 @@ export const faq = {
   heading: 'Frequently asked questions',
   questions: [
     {
-      question: 'What is a distributed organization?',
+      question: 'What is a digital cooperative?',
       answer:
-        'A distributed organization (DO), or distributed autonomous ' +
-        'organization (DAO) is an online community with tools for capital management and governance.',
+        'A digital cooperative, also known as decentralized autonomous ' +
+        'organization (DAO), is an online community with tools for capital management and governance.',
     },
     {
       question: 'How does this compare to fractional farmland investment platforms?',
@@ -23,7 +23,7 @@ export const faq = {
       question: 'How can I get involved?',
       answer:
         'Share land is using the Discord chat application to build our community.  We will use chat for informal governance and ' +
-        'the sharing of ideas and knowledge and gradually formalize aspects of our community into the DO and Share Land application.',
+        'the sharing of ideas and knowledge and gradually formalize aspects of our community into the cooperative and Share Land application.',
     },
   ],
 };
@@ -32,7 +32,7 @@ export const hero = {
   heading: 'Share Land',
   tagline: 'A farmland commons',
   description:
-    "Share Land is an idea for a distributed organization on the Ethereum blockchain whose mission is to own farmland and promote sustainable farming practices for the land in it's possession.",
+    "Share Land is an idea for a digital cooperative whose mission is to tokenize farmland, promote sustainable farming practices, and reduce the risk involved for new farmers.",
 };
 
 export const joinUs = {
@@ -50,13 +50,13 @@ export const researchPhase = {
   researchAreas: [
     {
       title: 'DAO platforms',
-      emphasis: 'Which DAO platform, ',
-      rest: 'such as Aragon, DAOStack, and Colony, has a feature set best suited for our mission?',
+      emphasis: 'Which DAO platform',
+      rest: 'has a feature set best suited for our mission?',
     },
     {
-      title: 'Legal Consultations',
-      emphasis: 'What off-chain entities ',
-      rest: 'are required for a farmland commons?',
+      title: 'Legal and Tax',
+      emphasis: 'Consultations',
+      rest: 'with legal and tax professionals regarding an LLC or other off-chain legal entity',
     },
     {
       title: 'Partnerships',
@@ -65,7 +65,7 @@ export const researchPhase = {
     },
     {
       title: 'Community',
-      emphasis: 'How can Share Land integrate ',
+      emphasis: 'How can Share Land integrate',
       rest: 'with communities at a local level?',
     },
   ],
@@ -83,19 +83,14 @@ export const whyWhatHow = {
           text: 'If you give a hungry man food, he will eat it.  If you give him land, he will grow his own food.',
           author: 'Fannie Lou Hamer',
           cite: 'https://www.inspiringquotes.us/author/3391-fannie-lou-hamer',
-        },
-        {
-          text: 'It is impossible to have a healthy and sound society without a proper respect for the soil.',
-          author: 'Peter Maurin',
-          cite: 'https://kidadl.com/articles/best-agriculture-quotes-about-farming-life',
-        },
+        }
       ],
     },
     {
       name: 'What',
       description:
-        'Share Land will be a distributed organization (DO) on the Ethereum blockchain.  The DO will also maintain an ' +
-        'application to facilitate DO governance tasks, including suggesting and voting on potential plots of land to purchase.',
+        'Share Land will be a digital cooperative on a blockchain yet to be decided.  The cooperative will also maintain an ' +
+        'application to facilitate governance tasks, including suggesting and voting on potential plots of land to purchase.',
       links: [
         {
           label: 'An Introduction to DAOs',
@@ -106,11 +101,11 @@ export const whyWhatHow = {
     {
       name: 'How',
       description:
-        'How the organization operates will be decided by the DAO, but here are some initial ideas:',
+        'How the cooperative operates will be decided by itself, but here are some initial ideas:',
       bulletPoints: [
         'Share Land will sell tokens, and the funds garnered will be used to buy and manage ownership of farmland',
-        'Governance is based on reputation, not token ownership',
         'Property deeds will be saved as NFTs.',
+        'Farmland will be leased to farmers who agree to use regenerative agriculture practices.',
       ],
     },
   ],

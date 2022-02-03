@@ -32,7 +32,7 @@ export const ResearchPhase: FC = (): ReactElement => {
               <p key={index}>
                 <span className="block text-2xl font-bold text-white">{researchArea.title}</span>
                 <span className="mt-1 block text-base text-gray-300">
-                  <span className="font-medium text-white">{researchArea.emphasis}</span>
+                  <span className="font-medium text-white">{researchArea.emphasis} </span>
                   {researchArea.rest}
                 </span>
               </p>

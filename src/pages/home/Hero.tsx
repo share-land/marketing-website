@@ -1,5 +1,5 @@
 import React, {FC, ReactElement} from 'react';
-import farmlandImage from '../../assets/farmland.jpeg';
+import farmlandImage from '../../assets/farmland.1200.jpeg';
 import {hero} from './content';
 
 export const Hero: FC = (): ReactElement => {
